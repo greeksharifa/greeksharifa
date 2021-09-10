@@ -7,13 +7,15 @@
 In Integrated Master's and Doctorate Course
 
 ### Field of Study
-❤️ Multimodal video: Vision & Language
-🧡 Video Turing Test
-💛 Natural Language Process
-💚 
+
+❤️ Multimodal video: Vision & Language  
+🧡 Video Turing Test  
+💛 Natural Language Process  
+💚   
 
 ### Homepage
-💙 
+
+💙   
 💜 https://greeksharifa.github.io/
 
 <div align=center>
