@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreeksharifa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Youwon Jang 🔭
 
 In Integrated Master's and Doctorate Course
@@ -11,12 +9,14 @@ In Integrated Master's and Doctorate Course
 ❤️ Multimodal video: Vision & Language  
 🧡 Video Turing Test  
 💛 Natural Language Process  
-💚   
+💚 Language Model based on Confidence  
 
 ### Homepage
 
-💙   
-💜 https://greeksharifa.github.io/
+💙 [About](https://greeksharifa.github.io/about/)  
+💜 [Tech Blog](https://greeksharifa.github.io/)  
+❤️ [LinkedIn](https://www.linkedin.com/in/youwon-jang-9bb883214/)  
+🧡 [Google Scholar](https://scholar.google.com/citations?user=ulMB96AAAAAJ)  
 
 <div align=center>
 
